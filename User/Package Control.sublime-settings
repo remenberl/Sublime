@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": 1348104870,
+	"installed_packages":
+	[
+		"4GL",
+		"BracketHighlighter",
+		"CTags",
+		"GBK Encoding Support",
+		"LaTeXTools",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
